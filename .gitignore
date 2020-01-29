@@ -1,6 +1,9 @@
 # Compiled figures
 figure
 
+# Jupyter notebook temp files
+.ipynb_checkpoints/
+
 #Visual Studio Code temp files
 .vscode/
 
